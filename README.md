@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-# `💼 Technical Skills`
+### `💼 Technical Skills`
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-# `🤝 Connect with me`
+### `🤝 Connect with me`
 ![https://github.com/mengiefen](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![https://www.linkedin.com/in/mengefen/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-# ` 📈 GitHub Stats `
+### ` 📈 GitHub Stats `
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengiefen&show_icons=true" />
@@ -40,6 +40,6 @@
 <br/>
 <br/>
 
-# `GitHub Metrics`
+### `GitHub Metrics`
 
 ![GitHub metrics](https://metrics.lecoq.io/mengiefen)  
