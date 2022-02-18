@@ -1,14 +1,14 @@
 ![I am Full Stack Developer, Electrical Engineer](img/Banner.png)
-<br/>
+
 
 <h3 align="center" >Hi there 👋, `I'm Mengstu</h3>
 
 <h2 align="center">I am Full Stack Developer, Electrical Engineer</h2>
-<br/>
+
 
 `I do front-end and back-end web development. I'm also electrical engineer who enjoys to work in embedded electronics and power electronics & drives design.I really enjoy learning new programming languages and frameworks like React. I enjoy challenging myself and learn from it.`
 
-<br/>
+
 
 ### `💼 Technical Skills`
 <br/>
@@ -28,7 +28,7 @@
 ![https://www.linkedin.com/in/mengefen/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://twitter.com/MengistuFentaw](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-<br/>
+
 
 
 ### ` 📈 GitHub Stats `
@@ -40,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengiefen&layout=compact" />
 </a>
 
-<br/>
+
 
 ### `GitHub Metrics`
 <br/>
