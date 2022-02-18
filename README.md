@@ -6,7 +6,7 @@
 <h2 align="center">I am Full Stack Developer, Electrical Engineer</h2>
 
 
-`I do front-end and back-end web development. I'm also electrical engineer who enjoys to work in embedded electronics and power electronics & drives design.I really enjoy learning new programming languages and frameworks like React. I enjoy challenging myself and learn from it.`
+`I do front-end and back-end web development. I'm electrical engineer who enjoys working on embedded electronics and power electronics & drives. I really enjoy learning new programming languages and frameworks like React. I enjoy challenging myself and learn from it.`
 
 
 
