@@ -1,7 +1,7 @@
 ![I am Full Stack Developer, Electrical Engineer](img/Banner.png)
 
  
-![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91)
+![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91&style=for-the-badge)
 <h3 align="center" >Hi there 👋, `I'm Mengstu</h3>
 
 <h2 align="center">I am Full Stack Developer, Electrical Engineer</h2>
@@ -10,8 +10,6 @@
 `I do front-end and back-end web development. I'm electrical engineer who enjoys working on embedded electronics and power electronics & drives. I really enjoy learning new programming languages and frameworks like React. I enjoy challenging myself and learn from it.`
 
 <br/>
-
-<span style="color:red">some *blue* text</span>.
 
 ## `💼 Tools and Languages`
 
