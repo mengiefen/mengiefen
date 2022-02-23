@@ -1,6 +1,6 @@
 ![I am Full Stack Developer, Electrical Engineer](img/Banner.png)
 
-
+![](https://komarev.com/ghpvc/?username=mengiefen)
 <h3 align="center" >Hi there 👋, `I'm Mengstu</h3>
 
 <h2 align="center">I am Full Stack Developer, Electrical Engineer</h2>
@@ -47,3 +47,5 @@
 ## `GitHub Metrics`
 
 ![GitHub metrics](https://metrics.lecoq.io/mengiefen)  
+
+
