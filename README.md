@@ -11,7 +11,7 @@
 
 <br/>
 
-## `💼 Tools and Languages`
+### `💼 Tools and Languages`
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
@@ -24,7 +24,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br/>
 <br/>
-## `🤝 Connect with me`
+### `🤝 Connect with me`
 
 <!-- [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]() -->
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-## ` 📈 GitHub Stats `
+### ` 📈 GitHub Stats `
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengiefen&show_icons=true" />
@@ -45,7 +45,7 @@
 </a>
 <br/>
 
-## `GitHub Metrics`
+### `GitHub Metrics`
 
 ![GitHub metrics](https://metrics.lecoq.io/mengiefen)  
 
