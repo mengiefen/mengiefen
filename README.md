@@ -2,12 +2,12 @@
 
  
 ![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91&style=for-the-badge)
-<h3 align="center" >Hi there 👋, `I'm Mengstu</h3>
+<h3 align="left" >Hi there 👋, `I'm Mengstu</h3>
 
 <h2 align="left">I am Full Stack Developer, Electrical Engineer</h2>
 
 
-`I am currently a student in front-end and back-end web development  at Microverse. It really enjoys me learning new programming languages and frameworks. I like challenging myself and learn from it. At this time, I can do full featured front-end websites using HTML, CSS, JavaScript and React.` 
+`I am currently a student at Microverse. It really enjoys me learning new programming languages and frameworks. I like challenging myself and learn from it.  
 
  `I'm also electrical engineer who loves working on embedded and power electronics & drives.`
 
