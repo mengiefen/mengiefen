@@ -7,9 +7,7 @@
 <h2 align="left">I am Full Stack Developer, Electrical Engineer</h2>
 
 
-`I am currently a student at Microverse. It really enjoys me learning new programming languages and frameworks. I like challenging myself and learn from it.  
-
- `I'm also electrical engineer who loves working on embedded and power electronics & drives.`
+I am currently a student at Microverse. It really enjoys me learning new programming languages and frameworks. I like challenging myself and learn from it. 
 
 <br/>
 
