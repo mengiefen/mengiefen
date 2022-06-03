@@ -4,16 +4,19 @@
 ![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91&style=for-the-badge)
 <h3 align="left" >Hi there 👋, I'm Mengstu</h3>
 
-`I'm Full-stack Developer and Electrical Engineer who enjoys learning new programming languages and frameworks. I like challenging myself and learn from it.`
+<p>I'm Full-stack Developer and Electrical Engineer who enjoys learning new programming languages and frameworks. I like challenging myself and learn from it.</p>
 
 <br/>
 
-### `🤝Connect with me`
 
+<h2>🤝Connect with me</h2>
+
+ 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/mengiefen)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mengefen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mengefen@gmail.com)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/MengistuFentaw)
+
 <br/>
 
 ### ` 📈 GitHub Stats `
@@ -21,8 +24,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengiefen&layout=compact" />
 </a>
-<br/>
-<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengiefen&show_icons=true" />
 </a>
@@ -45,7 +47,7 @@
 </p>
 <br/> -->
 
-<table width="120px">
+<!-- <table width="120px">
     <tbody>
         <tr valign="top">
          <td width="55px" align="center">
@@ -101,7 +103,26 @@
          </td>
         </tr>          
     </tbody>
-</table>
+</table> -->
+<p>
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img  height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img  height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> 
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />      
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
+ </p>
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1) -->
