@@ -6,8 +6,6 @@
 
 <p>I'm Full-stack Developer and Electrical Engineer who enjoys learning new programming languages and frameworks. I like challenging myself and learn from it.</p>
 
-<br/>
-
 
 <h2>🤝Connect with me</h2>
 
@@ -24,6 +22,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengiefen&layout=compact" />
 </a>
+
+<br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengiefen&show_icons=true" />
