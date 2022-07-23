@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91&style=for-the-badge)
 <h3 align="left" >Hi there 👋, I'm Mengstu</h3>
 
-<p>I'm Full-stack Developer and Electrical Engineer who enjoys learning new programming languages and frameworks. I like challenging myself and learn from it.</p>
+<p>I'm Full-stack Developer/Electrical Engineer who enjoys learning new programming languages and frameworks. I like challenges and learn from them.</p>
 
 
 <h2>🤝Connect with me</h2>
