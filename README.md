@@ -2,7 +2,7 @@
 
  
 ![](https://komarev.com/ghpvc/?username=mengiefen&color=0a8c91&style=for-the-badge)
-<h3 align="left" >Hi there 👋, I'm Mengstu</h3>
+<h3 align="left" >Hello there 👋, I'm Mengstu</h3>
 
 <p>I'm a passionate Full-stack Developer/Electrical Engineer who enjoys learning new programming languages and frameworks. Some techs that I enjoy working with are  JavaScript, React.js, Redux, TailwindCSS, Bootstrap, SASS, Ruby, and  Ruby on Rails. I like problem-solving and learning from them.</p>
 
